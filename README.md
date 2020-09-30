@@ -1,2 +1,2 @@
 # Python
-All I do in Python.
+ALL I do in Python.
